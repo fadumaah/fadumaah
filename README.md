@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fadumaah, a Software Enginner @100Devs
+- 👋 Hi, I’m @fadumaah
 
 <!---
 fadumaah/fadumaah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
